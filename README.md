@@ -59,7 +59,7 @@ Data is stored only in the browser and device where it is entered. It is not clo
 **Monthly net savings = Monthly Income − Monthly Expenses**
 
 ## Limitations
-This is a client-side academic project. LocalStorage is not secure cloud storage and does not support user accounts or cross-device sync. The watermark is a visual attribution mark, not screenshot or copying protection.
+This is a client-side academic project. LocalStorage is not secure cloud storage and does not support user accounts or cross-device sync.
 
 
 ## How the files work together (simple guide)
