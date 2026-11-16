@@ -23,7 +23,6 @@ A multi-page, responsive personal expense tracker built with HTML5, CSS3 and beg
 - Save data in browser LocalStorage.
 - Responsive layout for mobile, tablet and desktop.
 - Consistent navigation across all four pages.
-- SiteCrafters preview watermark and attribution footer.
 
 ## Folder structure
 ```
